@@ -26,4 +26,6 @@ This section contains a list of projects with brief descriptions.
 ### Sonar (Rocks vs. Mines) 
 **Description:** The dataset, sourced from the XYZ website, encompasses two files: "sonar.mines" and "sonar.rocks." It contains a total of 111 patterns from sonar signals bounced off metal cylinders and 97 patterns from rocks, gathered under similar conditions. Each pattern comprises 60 numbers indicating energy within frequency bands over time, with labels "R" for rocks and "M" for mines, sorted by aspect angles. These files are consolidated into one dataset named "sonar.all-data." After meticulous data preprocessing and feature engineering, the logistic regression model was fine-tuned to optimize its predictive capabilities. With an R-squared value of 0.81, indicating the proportion of variance in the target variable explained by the model, and an accuracy rate of 88%, the logistic regression model demonstrated robustness in distinguishing between rocks and mines based on the sonar data patterns.<br>
 **Dataset**<a href = "https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks"> 
-**Code**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German-cars-Analysis.ipynb">
+<code>Connectionist Bench Sonar Mines vs Rocks</code></a> <br>
+**Code**<a href = "https://colab.research.google.com/drive/1eSJnUULgp0_EQ_EWCMNP_m5pEYoCrxko?usp=sharing">
+<code>Colab Link</code></a> <br>
