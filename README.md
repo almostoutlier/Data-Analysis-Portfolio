@@ -30,7 +30,7 @@ This section contains a list of projects with brief descriptions.
 **Code:** <a href = "https://colab.research.google.com/drive/1eSJnUULgp0_EQ_EWCMNP_m5pEYoCrxko?usp=sharing">
 <code>Colab Link</code></a> <br>
 
-### Movie Performance Overtie 
+### Movie Performance Overtime 
 **Description:** The TMDB dataset, encompassing over 700,000 movies up to July 2023, provides a comprehensive array of data points including cast, crew, plot keywords, budget, revenue, and more. To enhance usability, the dataset underwent meticulous cleaning, refining the initial .csv format by eliminating blank fields in key metrics. This refinement resulted in a condensed dataset of 9,678 movies. Additionally, calculated fields for gross profit and profit percentage were introduced. Leveraging Tableau, filters were implemented to distinguish between animated and conventional genres, while data integration techniques were applied to enhance insights, particularly focusing on the highest-grossing actors. This curated dataset serves as a versatile tool for researchers, analysts, and industry professionals, facilitating various applications from historical analysis to predictive modeling of box office revenue.<br>
 **Dataset:** <a href = "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies"> 
 <code>Movies Daily Update Dataset</code></a> <br>
