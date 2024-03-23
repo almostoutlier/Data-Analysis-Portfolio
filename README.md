@@ -25,14 +25,14 @@ This repository was created to showcase my analytical and technical skills (Exce
 This section contains a list of projects with brief descriptions.
 ### Sonar (Rocks vs. Mines) 
 **Description:** The dataset, sourced from the XYZ website, encompasses two files: "sonar.mines" and "sonar.rocks." It contains a total of 111 patterns from sonar signals bounced off metal cylinders and 97 patterns from rocks, gathered under similar conditions. Each pattern comprises 60 numbers indicating energy within frequency bands over time, with labels "R" for rocks and "M" for mines, sorted by aspect angles. These files are consolidated into one dataset named "sonar.all-data." After meticulous data preprocessing and feature engineering, the logistic regression model was fine-tuned to optimize its predictive capabilities. With an R-squared value of 0.81, indicating the proportion of variance in the target variable explained by the model, and an accuracy rate of 88%, the logistic regression model demonstrated robustness in distinguishing between rocks and mines based on the sonar data patterns.<br>
-**Dataset: **<a href = "https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks"> 
+**Dataset:** <a href = "https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks"> 
 <code>Connectionist Bench Sonar Mines vs Rocks</code></a> <br>
-**Code: **<a href = "https://colab.research.google.com/drive/1eSJnUULgp0_EQ_EWCMNP_m5pEYoCrxko?usp=sharing">
+**Code:** <a href = "https://colab.research.google.com/drive/1eSJnUULgp0_EQ_EWCMNP_m5pEYoCrxko?usp=sharing">
 <code>Colab Link</code></a> <br>
 
 ### Movie Performance Overtie 
 **Description:** The TMDB dataset, encompassing over 700,000 movies up to July 2023, provides a comprehensive array of data points including cast, crew, plot keywords, budget, revenue, and more. To enhance usability, the dataset underwent meticulous cleaning, refining the initial .csv format by eliminating blank fields in key metrics. This refinement resulted in a condensed dataset of 9,678 movies. Additionally, calculated fields for gross profit and profit percentage were introduced. Leveraging Tableau, filters were implemented to distinguish between animated and conventional genres, while data integration techniques were applied to enhance insights, particularly focusing on the highest-grossing actors. This curated dataset serves as a versatile tool for researchers, analysts, and industry professionals, facilitating various applications from historical analysis to predictive modeling of box office revenue.<br>
-**Dataset: **<a href = "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies"> 
+**Dataset:** <a href = "https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies"> 
 <code>Movies Daily Update Dataset</code></a> <br>
-**Powerpoint & Dashboard: **<a href = "https://docs.google.com/presentation/d/1ZDyQ4bzW7ycv3ulfHb307G-25ZoXJPkw/edit?usp=sharing&ouid=100940698311259880524&rtpof=true&sd=true">
+**Powerpoint & Dashboard:** <a href = "https://docs.google.com/presentation/d/1ZDyQ4bzW7ycv3ulfHb307G-25ZoXJPkw/edit?usp=sharing&ouid=100940698311259880524&rtpof=true&sd=true">
 <code>Slides</code></a> <br>
