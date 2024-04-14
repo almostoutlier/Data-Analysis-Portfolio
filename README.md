@@ -90,6 +90,8 @@ The MAPE values indicate that the model's predictions have a very low average pe
 
 ## Certificates
 * [Introduction to Airflow in Python Certificate](https://github.com/almostoutlier/Certificates/blob/main/airflow%20in%20python.pdf) - Datacamp, 2024
+**Link to coding Exercises:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Datacamp_Introduction_to_Airflow_Certification_Excersises.ipynb">
+<code>Airflow Exercises</code></a> <br>
 * [Introduction to Data Pipelines Certificate](https://github.com/almostoutlier/Certificates/blob/main/Introduction_to_Data_Pipelines.pdf) - Datacamp, 2024
 * [Supervised Learning with scikit-learn Certificate](https://github.com/almostoutlier/Certificates/blob/main/Supervised_Learning_with_Scikit-learn.pdf) - Datacamp, 2024
 * [Introduction to Python Certificate](https://github.com/almostoutlier/Certificates/blob/main/Introduction_to_Python.pdf) - Datacamp, 2024
