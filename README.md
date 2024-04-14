@@ -34,7 +34,7 @@ This section contains a list of projects with brief descriptions.
 **Description:** We will employ YOLOv3, pretrained on the COCO dataset, for object detection. While single-stage detectors like YOLO may be less accurate than two-stage detectors, they offer significant speed advantages. YOLO treats object detection as a regression problem, predicting bounding box coordinates and class label probabilities simultaneously. It returns person prediction probabilities, bounding box coordinates, and centroids. Non-maxima suppression (NMS) is applied to reduce overlapping bounding boxes. Centroids of the detections are computed, and pairwise distances are analyzed to identify people within a certain pixel distance threshold.<br>
 **Colab:** <a href = "https://colab.research.google.com/drive/1UNRqDZCyqYc1Z4txhDqVNLER_0PNgpbX?usp=sharing"> 
 <code>Colab Link</code></a> <br>
-![alt text](image.png)
+![alt text](<../Main/Project Data/image.png>)
 
 ## Acadamic Projects
 This section contains a list of projects which are a part of my acadamics with brief descriptions.
@@ -52,11 +52,10 @@ Confusion Matrix on Test Data
            C       1.00      1.00      1.00        99
            D       0.94      0.95      0.94      1789
            N       0.99      0.99      0.99      8125
-
     accuracy                           0.98     10013
    macro avg       0.97      0.98      0.98     10013
 weighted avg       0.98      0.98      0.98     10013
-![alt text](image-1.png)
+![alt text](<../Main/Project Data/image-1.png>)
 
 If the Flight is being delayed, what could be the reason for it? (Multilabel Classification Model)
 Confusion Matrix on Test Data
