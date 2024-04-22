@@ -47,29 +47,34 @@ Objectives:
 
 If a flight will be on time/ delayed/ cancelled? (Multiclass Classification Model)
 Confusion Matrix on Test Data
- precision    recall  f1-score   support
 
+                precision    recall  f1-score   support
            C       1.00      1.00      1.00        99
            D       0.94      0.95      0.94      1789
            N       0.99      0.99      0.99      8125
     accuracy                           0.98     10013
-   macro avg       0.97      0.98      0.98     10013
-weighted avg       0.98      0.98      0.98     10013
+
 ![alt text](image-1.png)
 
 If the Flight is being delayed, what could be the reason for it? (Multilabel Classification Model)
 Confusion Matrix on Test Data
 Accuracy Score:  0.8561869569559573
 Hamming Loss:  0.05
-[[[8947  265]    [[9997    0]   [[9156  208]     [[8918  275]      [[9666   47]
-  [ 442  359]]    [  16    0]]    [ 482  167]]     [ 355  465]]     [ 261   39]]]
+
+AIR_SYSTEM_DELAY | SECURITY_DELAY | AIRLINE_DELAY | LATE_AIRCRAFT_DELAY |  WEATHER_DELAY
+--- | --- | --- | --- | ---
+[[[8947  265]  |  [[9997    0]  | [[9156  208]  |   [[8918  275]   |   [[9666   47]
+[ 442  359]]  |  [  16    0]]  |  [ 482  167]]  |   [ 355  465]]   |  [ 261   39]]]
 
 
 If the flight is being delayed, by how many minutes it is going to get delayed? (Regression Model)
-    Data       RMSE        MAE      MAPE
-0  Train  32.210859  24.042234  0.444889
-1    Val  32.409667  24.199183  0.449289
-2   Test  32.224404  24.060442  0.441072
+ Data | RMSE | MAE | MAPE 
+--- | --- | --- | --- 
+Train | 32.210859 | 24.042234 | 0.444889
+Val | 32.409667 | 24.199183 | 0.449289
+Test | 32.224404 | 24.060442 | 0.441072 
+
+
 Based on these observations:
 
 The model performs consistently across different datasets (training, validation, and test) based on RMSE, MAE, and MAPE metrics.
