@@ -18,11 +18,21 @@ This repository was created to showcase my analytical and technical skills (Exce
 * [Study projects](#study-projects)
   - [Movie Over Time Analysis](#movie-analysis)
   - [Excel Exercises](#excel-exercises)
+  - [R Exercises](#R-exercises)
   - [SQL Exercises](#sql-exercises)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
+
+### ATS Optimized Custom Resume Generator
+**Description:** This Python project utilizes the python-docx library and the Gemini API to create professional, ATS (Applicant Tracking System) optimized resumes in the Microsoft Word format. The Gemini API is a powerful natural language processing tool that analyzes job descriptions and generates tailored resumes with optimized content and keyword placement, ensuring a high ATS score. The script takes user inputs for personal information, education, experience, skills, and academic projects, and generates a well-structured, visually appealing resume tailored for the given role or job description. The generated resumes are optimized for Applicant Tracking Systems by utilizing industry-standard formatting, section headings, and keywords extracted from the job description using the Gemini API. The script allows users to input their personal information, education, experience, skills, and academic projects, ensuring a tailored and comprehensive resume. The script handles all formatting aspects, including section headings, bullet points, font styles, and alignment, ensuring a consistent and professional look. The education and experience sections are presented in a tabular format, with adjustable column widths and appropriate formatting for readability. Skills are categorized into programming languages, data skills, and tools, allowing for clear and organized presentation.<br>
+**Output Resume:** <a href = "https://github.com/almostoutlier/Main/blob/main/Project%20Data/ATS_Optimized_Resume.docx"> 
+<code>ATS_Optimized_Resume</code></a> <br>
+**Code:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Custom_Resume_Generator.ipynb">
+<code>Code</code></a> <br>
+
+
 ### Sonar (Rocks vs. Mines) 
 **Description:** The dataset, sourced from the XYZ website, encompasses two files: "sonar.mines" and "sonar.rocks." It contains a total of 111 patterns from sonar signals bounced off metal cylinders and 97 patterns from rocks, gathered under similar conditions. Each pattern comprises 60 numbers indicating energy within frequency bands over time, with labels "R" for rocks and "M" for mines, sorted by aspect angles. These files are consolidated into one dataset named "sonar.all-data." After meticulous data preprocessing and feature engineering, the logistic regression model was fine-tuned to optimize its predictive capabilities. With an R-squared value of 0.81, indicating the proportion of variance in the target variable explained by the model, and an accuracy rate of 88%, the logistic regression model demonstrated robustness in distinguishing between rocks and mines based on the sonar data patterns.<br>
 **Dataset:** <a href = "https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks"> 
