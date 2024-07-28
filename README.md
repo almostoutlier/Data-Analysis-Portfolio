@@ -58,7 +58,7 @@ This section contains a list of projects with brief descriptions.
 **Azure Data Factory Pipeline:**
 ![Data Factory Pipeline](/images/pipeline.png)
 
-### ATS Optimized Custom Resume Generator
+### [ATS Optimized Custom Resume Generator](https://github.com/almostoutlier/Projects/tree/main/CustomResumeGenerator)
 **Description:** 
 - Utilizes the `python-docx` library and the Gemini API to create professional, ATS (Applicant Tracking System) optimized resumes in the Microsoft Word format.
 - Analyzes job descriptions with the Gemini API to generate tailored resumes with optimized content and keyword placement, ensuring a high ATS score.
@@ -71,15 +71,10 @@ This section contains a list of projects with brief descriptions.
 - **Libraries:** python-docx, Gemini API
 - **Tools:** Jupyter Notebook
 
-**Output Resume:** <a href = "https://github.com/almostoutlier/Projects/blob/main/CustomResumeGenerator/ATS_Optimized_Resume.docx"> 
-<code>ATS_Optimized_Resume</code></a> <br>
-**Code:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Custom_Resume_Generator.ipynb">
-<code>Code</code></a> <br>
-<br>
-![alt text](/images/resume-image.png)
+![Output Resume:](/images/resume-image.png)
 
 
-### Sonar
+### [Sonar](https://github.com/almostoutlier/Projects/tree/main/Sonar)
 **Description:** 
 - Dataset sourced from the Archive ICS UCI  website, encompassing two files: "sonar.mines" and "sonar.rocks."
 - Contains 111 patterns from sonar signals bounced off metal cylinders and 97 patterns from rocks, gathered under similar conditions.
@@ -122,7 +117,7 @@ This section contains a list of projects with brief descriptions.
 ## Acadamic Projects
 This section contains a list of projects which are a part of my acadamics with brief descriptions.
 
-### Flight Delay Prediction 
+### [Flight Delay Prediction](https://github.com/almostoutlier/Projects/tree/main/FlightDelay) 
 **Description:** 
 - Dataset includes information about flights in three modules: Airlines, Airports, and Flights.
 - All required data is present in the "Flights" module, including flight details, departure and arrival airports, delays, cancellations, and reasons.
@@ -165,10 +160,6 @@ Test | 32.224404 | 24.060442 | 0.441072
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib
 - **Tools:** Jupyter Notebook
 
-**Dataset:** <a href = "https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv"> 
-<code>2015 Flight Delays and Cancellations</code></a> <br>
-**Link:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Flights_Delay.ipynb">
-<code>Github Link</code></a> <br>
 
 ### Movie Performance Overtime 
 **Description:** 
@@ -188,6 +179,7 @@ Test | 32.224404 | 24.060442 | 0.441072
 
 ## Certificates
 * [Introduction to Airflow in Python Certificate](https://github.com/almostoutlier/Certificates/blob/main/airflow%20in%20python.pdf) - Datacamp, 2024
+
 **Link to coding Exercises:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Datacamp_Introduction_to_Airflow_Certification_Excersises.ipynb">
 <code>Airflow Exercises</code></a> <br>
 * [Introduction to Data Pipelines Certificate](https://github.com/almostoutlier/Certificates/blob/main/Introduction_to_Data_Pipelines.pdf) - Datacamp, 2024
