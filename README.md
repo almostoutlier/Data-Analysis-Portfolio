@@ -115,7 +115,7 @@ Confusion Matrix on Test Data
            N       0.99      0.99      0.99      8125
     accuracy                           0.98     10013
 
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
   - If delayed, by how many minutes? (Multilabel Classification Model)
 
