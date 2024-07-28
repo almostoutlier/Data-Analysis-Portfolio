@@ -8,6 +8,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
+  - [2021 Olympic Analysis](#2021-Olympic-Analysis)
   - [ATS Optimized Custom Resume Generator](#ATS-Optimized-Custom-Resume-Generator) 
   - [Sonar (Rocks vs. Mines)](#Sonar ) 
   - [Social Distancing Monitor](#social-distancing-monitor) 
@@ -17,7 +18,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
   - [Flight Delay Prediction](#flight-delay-prediction)
   - [Movie Over Time Analysis](#movie-performance-overtime)
   - [Excel Exercises](#excel-exercises)
-  - [R Exercises](#R-exercises)
+  - [R Exercises](https://github.com/almostoutlier/Main/tree/main/R%20Exercises)
   - [SQL Exercises](#sql-exercises)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
@@ -35,6 +36,28 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
 
+### [2021 Olympic Analysis](https://github.com/almostoutlier/Projects/tree/main/Olympics) 
+**End-to-End Data Engineering Project in Azure**
+**Description:**
+- Leverages Azure Data Factory for efficient data ingestion from various sources into a centralized data lake.
+- Utilizes Azure Databricks for data transformation, cleansing, and feature engineering, ensuring data is analytics-ready.
+- Employs Azure Synapse Analytics to perform advanced analytics and generate insightful metrics.
+- Creates interactive and dynamic visualizations using Power BI to present key findings.
+- Integrates Looker Studio and Tableau for additional visualization and reporting capabilities.
+- Implements end-to-end data engineering pipeline, showcasing the use of Azure cloud services in handling large datasets for comprehensive analysis.
+
+**Tech Stack:**
+- **Data Ingestion:** Azure Data Factory
+- **Data Transformation:** Azure Databricks
+- **Data Analytics:** Azure Synapse Analytics
+- **Visualization:** Power BI
+
+**Process Flow:**
+![Data Process Flow](/images/flow.png)
+
+**Azure Data Factory Pipeline:**
+![Data Factory Pipeline](/images/pipeline.png)
+
 ### ATS Optimized Custom Resume Generator
 **Description:** 
 - Utilizes the `python-docx` library and the Gemini API to create professional, ATS (Applicant Tracking System) optimized resumes in the Microsoft Word format.
@@ -48,7 +71,7 @@ This section contains a list of projects with brief descriptions.
 - **Libraries:** python-docx, Gemini API
 - **Tools:** Jupyter Notebook
 
-**Output Resume:** <a href = "https://github.com/almostoutlier/Main/blob/main/Project%20Data/ATS_Optimized_Resume.docx"> 
+**Output Resume:** <a href = "https://github.com/almostoutlier/Projects/blob/main/CustomResumeGenerator/ATS_Optimized_Resume.docx"> 
 <code>ATS_Optimized_Resume</code></a> <br>
 **Code:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Custom_Resume_Generator.ipynb">
 <code>Code</code></a> <br>
