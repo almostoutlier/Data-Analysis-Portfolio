@@ -140,11 +140,13 @@ Hamming Loss:  0.05
 **Confusion Matrix on Test Data:**
 | AIR_SYSTEM_DELAY | SECURITY_DELAY | AIRLINE_DELAY | LATE_AIRCRAFT_DELAY | WEATHER_DELAY |
 |------------------|----------------|---------------|---------------------|---------------|
-| [[8947  265]     | [[9997    0]   | [[9156  208]  | [[8918  275]        | [[9666   47]  |
-| [ 442  359]]     | [  16    0]]   | [ 482  167]]  | [ 355  465]]        | [ 261   39]]  |
+| [8947  265]     | [9997    0]   | [9156  208]  | [8918  275]        | [9666   47]  |
+| [ 442  359]]    | [  16    0]   | [ 482  167]  | [ 355  465]        | [ 261   39]  |
 
   - If cancelled, what could be the reason for cancellation? (Regression Model)
+
 **Model Performance:**
+
 | Data  | RMSE      | MAE       | MAPE     |
 |-------|-----------|-----------|----------|
 | Train | 32.210859 | 24.042234 | 0.444889 |
