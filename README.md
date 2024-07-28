@@ -133,8 +133,8 @@ Confusion Matrix on Test Data
   - If delayed, by how many minutes? (Multilabel Classification Model)
 
 Confusion Matrix on Test Data
-Accuracy Score:  0.8561869569559573
-Hamming Loss:  0.05
+**Accuracy Score:**  0.8561869569559573
+**Hamming Loss:**  0.05
 
 
 **Confusion Matrix on Test Data:**
