@@ -87,11 +87,6 @@ This section contains a list of projects with brief descriptions.
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib
 - **Tools:** Jupyter Notebook
 
-**Dataset:** <a href = "https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks"> 
-<code>Connectionist Bench Sonar Mines vs Rocks</code></a> <br>
-**Code:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Rocks_vs_Mines.ipynb">
-<code>Code</code></a> <br>
-<br>
 ![alt text](/images/sonar-image.png)
 
 ### Social Distancing Monitor
@@ -141,18 +136,20 @@ Confusion Matrix on Test Data
 Accuracy Score:  0.8561869569559573
 Hamming Loss:  0.05
 
-AIR_SYSTEM_DELAY | SECURITY_DELAY | AIRLINE_DELAY | LATE_AIRCRAFT_DELAY |  WEATHER_DELAY
---- | --- | --- | --- | ---
-[[[8947  265]  |  [[9997    0]  | [[9156  208]  |   [[8918  275]   |   [[9666   47]
-[ 442  359]]  |  [  16    0]]  |  [ 482  167]]  |   [ 355  465]]   |  [ 261   39]]]
 
+**Confusion Matrix on Test Data:**
+| AIR_SYSTEM_DELAY | SECURITY_DELAY | AIRLINE_DELAY | LATE_AIRCRAFT_DELAY | WEATHER_DELAY |
+|------------------|----------------|---------------|---------------------|---------------|
+| [[8947  265]     | [[9997    0]   | [[9156  208]  | [[8918  275]        | [[9666   47]  |
+| [ 442  359]]     | [  16    0]]   | [ 482  167]]  | [ 355  465]]        | [ 261   39]]  |
 
   - If cancelled, what could be the reason for cancellation? (Regression Model)
- Data | RMSE | MAE | MAPE 
---- | --- | --- | --- 
-Train | 32.210859 | 24.042234 | 0.444889
-Val | 32.409667 | 24.199183 | 0.449289
-Test | 32.224404 | 24.060442 | 0.441072 
+**Model Performance:**
+| Data  | RMSE      | MAE       | MAPE     |
+|-------|-----------|-----------|----------|
+| Train | 32.210859 | 24.042234 | 0.444889 |
+| Val   | 32.409667 | 24.199183 | 0.449289 |
+| Test  | 32.224404 | 24.060442 | 0.441072 |
 <br>
 
 **Tech Stack:**
@@ -178,10 +175,8 @@ Test | 32.224404 | 24.060442 | 0.441072
 <code>Slides</code></a> <br>
 
 ## Certificates
-* [Introduction to Airflow in Python Certificate](https://github.com/almostoutlier/Certificates/blob/main/airflow%20in%20python.pdf) - Datacamp, 2024
-
-**Link to coding Exercises:** <a href = "https://github.com/almostoutlier/Projects/blob/main/Datacamp_Introduction_to_Airflow_Certification_Excersises.ipynb">
-<code>Airflow Exercises</code></a> <br>
+* [Introduction to Airflow in Python Certificate](https://github.com/almostoutlier/Certificates/blob/main/airflow%20in%20python.pdf) - Datacamp, 2024  | <a href = "https://github.com/almostoutlier/Projects/blob/main/Datacamp_Introduction_to_Airflow_Certification_Excersises.ipynb">
+<code>Link to Airflow Exercises</code></a> <br>
 * [Introduction to Data Pipelines Certificate](https://github.com/almostoutlier/Certificates/blob/main/Introduction_to_Data_Pipelines.pdf) - Datacamp, 2024
 * [Supervised Learning with scikit-learn Certificate](https://github.com/almostoutlier/Certificates/blob/main/Supervised_Learning_with_Scikit-learn.pdf) - Datacamp, 2024
 * [Introduction to Python Certificate](https://github.com/almostoutlier/Certificates/blob/main/Introduction_to_Python.pdf) - Datacamp, 2024
