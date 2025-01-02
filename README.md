@@ -26,7 +26,18 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 
 
 ## About me
-I am a Business Analytics Major at Isenberg School of Management. I honed my cloud infrastructure skills as a DevOps Engineer over 2 years. Simultaneously, I led the marketing of a nationwide NGO dedicated to empowering underprivileged students in India. During my tenure there, I achieved a groundbreaking increase in newsletter signups by 62% to reach 9000 subscribers in just one year. an experience that emphasized the power of data-driven decisions. My Academic journey has fortified my knowledge of data-driven strategy, marketing analytics, and optimization techniques. Furthermore, I am proficient in advanced Excel, Google Analytics, and visualization tools.<br>
+I am a witty-minded Data Alchemist with a great passion for connecting the dots and storytelling. I have strong foundation in Python, SQL, Azure, Spark, Data Analytics and Machine Learning.
+
+(Still trying to figure out the rest)
+
+- Programming Languages: Python (NumPy, Pandas, SciKit, Matplotlib), Java, SQL, Bash, VBA
+- Data Processing Frameworks: Apache Spark, Hadoop MapReduce
+- Big Data & Databases: Hadoop, Hive, HDFS, MongoDB, Cosmos DB, MySQL, PostgreSQL, LLM
+- Cloud Platforms: Microsoft Azure (Blob Storage, AKS, Databricks, Data Factory, Synapse), AWS (EC2, S3, RDS, Redshift), GCP (Cloud Dataflow, Cloud Storage, BigQuery, Google Kubernetes Engine (GKE))
+- Methodologies: CI/CD, ETL/ELT, A/B Testing, NLP, LLM
+- Tools: Apache Airflow, Snowflake, Tableau, Power BI, Excel, Docker, Looker, Visual Studio
+
+Currently, I am a Grad Student at UMass Amherst. I will be graduating in December 2024, and I'm interested in a full-time Data Analyst/ Data Engineer role. Please feel free to get in touch with me via email at alaharivirinchi08@gmail.com<br>
 I am both a team player and a decisive leader.<br>
 
 You can see more information in my [**CV**](https://github.com/almostoutlier/Data-Analysis-Portfolio/blob/main/Virinchi%20Alahari%20Resume.pdf).
