@@ -8,6 +8,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
+  - [Perfume Recommendation System](#Perfume-Recommendation-System)
   - [2021 Olympic Analysis](#2021-Olympic-Analysis)
   - [ATS Optimized Custom Resume Generator](#ATS-Optimized-Custom-Resume-Generator) 
   - [Sonar (Rocks vs. Mines)](#Sonar ) 
@@ -30,11 +31,39 @@ I am both a team player and a decisive leader.<br>
 
 You can see more information in my [**CV**](https://github.com/almostoutlier/Data-Analysis-Portfolio/blob/main/Virinchi%20Alahari%20Resume.pdf).
 
+Here is a link to my [[**personal-website**]](https://almost-outlier.framer.website/)
+![Website](/images/website.png)
+
 This repository was created to showcase my analytical and technical skills (Excel, Python, R, SQL, Tableau, Power BI, PowerPoint, and others).
 
 
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
+
+### [Perfume Recommendation System](https://github.com/almostoutlier/Projects/tree/main/PerfumeRecommendation) 
+**End-to-End Web Application using NLP & Docker**
+**Description:**
+- Implements Flask web framework for building a scalable recommendation system, containerized using Docker for consistent deployment and scalability.
+- Utilizes Natural Language Processing (NLP) with TF-IDF vectorization for processing perfume descriptions and user preferences, enabling accurate text-based similarity matching
+- Integrates scikit-learn's cosine similarity algorithm to calculate perfume matches, delivering personalized top 5 recommendations based on user inputs including gender, brand, and fragrance preferences.
+- Features a responsive web interface with an intuitive input form and detailed results page, displaying comprehensive perfume information including ratings, descriptions, and similarity scores.
+- Demonstrates end-to-end data engineering pipeline, from data preprocessing to real-time recommendations, showcasing modern web development practices and machine learning integration in a production environment.
+- Implements data cleaning and preprocessing pipeline using pandas for efficient handling of perfume dataset, ensuring accurate and relevant recommendations through structured data management.
+
+**Tech Stack:**
+- **Backend Framework**: Flask
+- **Data Processing**: Pandas, NumPy
+- **Machine Learning**: Scikit-learn (TF-IDF Vectorizer, Cosine Similarity)
+- **Frontend**: HTML/CSS
+- **Containerization**: Docker
+- **Development**: Jupyter Notebook
+
+**Architecture Flow:**
+![Architecture](/images/architecture.jpg)
+
+**Sample Output:**
+![Perfume Recommendation Output](/images/perfume_output.png)
+
 
 ### [2021 Olympic Analysis](https://github.com/almostoutlier/Projects/tree/main/Olympics) 
 **End-to-End Data Engineering Project in Azure**
